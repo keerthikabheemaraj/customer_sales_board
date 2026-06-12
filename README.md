@@ -37,5 +37,4 @@ Build an interactive sales dashboard and generate actionable customer insights f
 4. Implement customer loyalty programs.
 
 ## Dashboard Link
-
-Add your Streamlit deployment URL here.
+https://customersalesboard-ftnubggesfgehjoubcgu8z.streamlit.app/
